@@ -1,5 +1,10 @@
-import { User } from "./User";
+const mapDiv = document.getElementById('map') as Element;
+const mapOptions = {
+    zoom: 1,
+    center: {
+        lat: 0,
+        lng: 0
+    }
+}
 
-const user = new User();
-
-console.log(user);
+new google.maps.Map(mapDiv, mapOptions);
