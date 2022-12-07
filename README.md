@@ -1,6 +1,6 @@
 # Maps
 
-This is very simple web page that displays two randomly generated points on a google map.
+This is a very simple web page that displays two randomly generated points on a google map.
 
 ## Purpose
 
