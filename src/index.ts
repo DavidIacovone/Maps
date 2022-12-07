@@ -1,10 +1,3 @@
-const mapDiv = document.getElementById('map') as Element;
-const mapOptions = {
-    zoom: 1,
-    center: {
-        lat: 0,
-        lng: 0
-    }
-}
+import { Map } from "./Map";
 
-new google.maps.Map(mapDiv, mapOptions);
+const map = new Map();
