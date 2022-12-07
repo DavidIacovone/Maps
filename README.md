@@ -8,4 +8,4 @@ The goal of this project was to showcase the basic features of TypeScript.
 
 ## Usage
 
-The only step required for this to workon your local machine is to run npm i. After that the app will work normally.
+The only step required for this to work on your local machine is to run npm i. After that the app will work normally.
